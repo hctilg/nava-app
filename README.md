@@ -1,46 +1,33 @@
-<!-- 
-=========================================================================
-  🍎 NAVA - THE MINIMALIST MASTERPIECE
-  Designed & Developed by Mahdi Mortazavi
-=========================================================================
--->
-
 <div align="center">
 
-  <!-- LOGO & HEADER -->
+  <!-- LOGO SECTION -->
   <a href="https://github.com/Mahdi-mortazavi/app">
-    <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/logo.png" alt="Nava App Logo" width="140" height="140" style="border-radius: 30px; box-shadow: 0 10px 40px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/logo.png" alt="Nava Logo" width="120" height="120" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
   </a>
 
   <br><br>
 
-  # 🍎 Nava
-  ### جایی که "آرامش" کدنویسی شده است.
-  
-  <p>
-    <b>"پیچیدگی، دشمن اجراست. ما سادگی را انتخاب کردیم."</b>
-    <br>
-    <i>"Simplicity is the ultimate sophistication."</i>
+  <!-- TITLE & BADGES -->
+  <h1 style="border-bottom: none; margin-bottom: 0;">🍎 Nava App</h1>
+  <p style="font-size: 1.1em; color: #666;">
+    <b>هنرِ حذف کردن اضافات | The Art of Reduction</b>
   </p>
 
-  <!-- BADGES -->
   <p>
     <a href="https://flutter.dev">
-      <img src="https://img.shields.io/badge/Flutter-3.0%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <img src="https://img.shields.io/badge/Flutter-3.19%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     </a>
     <a href="https://dart.dev">
       <img src="https://img.shields.io/badge/Dart-3.0%2B-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     </a>
-    <a href="LICENSE">
-      <img src="https://img.shields.io/badge/Design-Minimalist-black?style=for-the-badge&logo=apple&logoColor=white" alt="Style">
+    <a href="#">
+      <img src="https://img.shields.io/badge/Design-Minimalist-222222?style=for-the-badge&logo=apple&logoColor=white" alt="Design">
     </a>
   </p>
 
-  <br>
-
-  <!-- DOWNLOAD BUTTON -->
+  <!-- DOWNLOAD BADGE -->
   <a href="https://github.com/Mahdi-mortazavi/app/releases/latest">
-    <img src="https://img.shields.io/badge/📲_دانلود_نسخه_اندروید_|_Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&height=50" height="45">
+    <img src="https://img.shields.io/badge/⬇️_دانلود_نسخه_اندروید_(APK)-3DDC84?style=for-the-badge&logo=android&logoColor=white&height=50" height="40">
   </a>
 
 </div>
@@ -48,77 +35,43 @@
 <br>
 <hr>
 
-<!-- ----------------------------------------------------- -->
-<!-- PERSIAN STORY SECTION                                 -->
-<!-- ----------------------------------------------------- -->
-<div dir="rtl" align="right">
-
-## 📖 پشت صحنه: داستان دو نفر و یک اپلیکیشن
-
-دنیای اپلیکیشن‌ها پر شده از دکمه‌های شلوغ، منوهای تو در تو و تبلیغات آزاردهنده. من، **مهدی مرتضوی**، همیشه فکر می‌کردم: *"چرا مدیریت کارهای روزانه باید استرس‌زا باشد؟"*
-
-من نمی‌خواستم فقط یک اپلیکیشن بسازم؛ می‌خواستم یک **تجربه** خلق کنم. تجربه‌ای که وقتی وارد آن می‌شوید، انگار وارد یک اتاق سفید، تمیز و ساکت شده‌اید. با الهام از فلسفه طراحی **جانی آیو (Jony Ive)**، تصمیم گرفتم تمام خطوط اضافه را پاک کنم. در Nava، دکمه‌ها فریاد نمی‌زنند، بلکه نجوا می‌کنند.
-
-### 💥 چالش بزرگ: "علی" وارد می‌شود!
-اما کدِ تمیز به تنهایی کافی نیست. اپلیکیشن باید زیر فشار دوام بیاورد. اینجاست که **علیرضا میرزابیگی** (پسرخاله و منتقد سرسخت من) وارد ماجرا شد.
-
-علی ([@alirezamrzb](https://t.me/alirezamrzb)) یک تستر معمولی نیست؛ او کابوسِ برنامه‌نویسان است! 😂
-علی گوشی را طوری دست می‌گیرد که انگار می‌خواهد با آن گردو بشکند. او روی دکمه‌ها با سرعت نور کلیک می‌کند، همزمان اسکرول می‌کند و گوشی را می‌چرخاند تا شاید یک باگ کوچک پیدا کند.
-*   **مهدی:** "علی، این انیمیشن رو ببین چقدر نرمه!"
-*   **علی:** "آره ولی وقتی با انگشت شست پای چپم کلیک میکنم، یک پیکسل جابجا میشه!" 😐
-
-نتیجه این وسواس‌ها و جنگ‌های دوستانه، اپلیکیشنی شد که نه تنها زیباست، بلکه مثل یک ساعت سوئیسی دقیق کار می‌کند.
-
----
-
-## ✨ چرا Nava متفاوت است؟ (Features)
-
-1.  **تمرکز مطلق (Zen Mode):** وقتی وارد حالت تمرکز می‌شوید، همه چیز محو می‌شود. فقط شما هستید و ثانیه‌شمار.
-2.  **رابط کاربری زنده:** دکمه‌ها و کارت‌ها خشک و بی‌روح نیستند؛ آن‌ها با لمس شما واکنش نشان می‌دهند (Bouncy Animation).
-3.  **بدون اضافات:** هیچ دکمه‌ی "تنظیمات پیشرفته" یا "منوی مخفی" وجود ندارد. ما به جای شما فکر کرده‌ایم و بهترین تنظیمات را اعمال کرده‌ایم.
-
-</div>
-
----
-
-<!-- ----------------------------------------------------- -->
-<!-- SCREENSHOTS GALLERY (THE NEW REQUEST)                 -->
-<!-- ----------------------------------------------------- -->
-<br>
-
-<h2 align="center">🎨 گالری تصاویر / Screenshots</h2>
-<p align="center">نگاهی به رابط کاربری مینیمال و جذاب ما</p>
+<!-- ======================================================= -->
+<!-- SCREENSHOTS GALLERY (FIXED & POLISHED)                  -->
+<!-- ======================================================= -->
+<h2 align="center">✨ گالری تصاویر / Visual Tour</h2>
+<p align="center" style="color: #666;">سه ستون اصلی تجربه کاربری Nava</p>
 
 <div align="center">
-  <table style="border-spacing: 15px; border-collapse: separate; width: 100%; max-width: 900px;">
-    <tr>
-      <td align="center" width="33%">
-        <h4 style="margin-bottom: 10px;">🏠 خانه (Home)</h4>
-        <p>لیست کارها با طراحی کارت‌های شناور</p>
+  <!-- 
+    NOTE: Using HTML Table for perfect layout.
+    Links are converted to 'raw.githubusercontent' to ensure they load.
+  -->
+  <table border="0" style="border-collapse: collapse; width: 100%; max-width: 900px; border: none;">
+    <tr style="border: none;">
+      <!-- CAPTIONS -->
+      <td width="33%" align="center" style="border: none; padding-bottom: 10px;">
+        <b>🧘‍♂️ Zen Home</b><br>
+        <small>خانه مینیمال</small>
       </td>
-      <td align="center" width="33%">
-        <h4 style="margin-bottom: 10px;">🎯 تمرکز (Focus)</h4>
-        <p>تایمر هوشمند برای غرق شدن در کار</p>
+      <td width="33%" align="center" style="border: none; padding-bottom: 10px;">
+        <b>🎯 Deep Focus</b><br>
+        <small>تمرکز عمیق</small>
       </td>
-      <td align="center" width="33%">
-        <h4 style="margin-bottom: 10px;">➕ افزودن (Add Task)</h4>
-        <p>سریع‌ترین راه برای ثبت ایده‌ها</p>
+      <td width="33%" align="center" style="border: none; padding-bottom: 10px;">
+        <b>⚡ Quick Add</b><br>
+        <small>افزودن سریع</small>
       </td>
     </tr>
-    <tr>
-      <!-- SHOT: HOME -->
-      <td align="center" style="vertical-align: top;">
-        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_home.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;" alt="Home Screen">
+    <tr style="border: none;">
+      <!-- IMAGES -->
+      <td width="33%" align="center" valign="top" style="border: none;">
+        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_home.jpg" width="100%" alt="Home Screen" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       </td>
-      
-      <!-- SHOT: FOCUS -->
-      <td align="center" style="vertical-align: top;">
-        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_focus.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;" alt="Focus Screen">
+      <td width="33%" align="center" valign="top" style="border: none;">
+        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_focus.jpg" width="100%" alt="Focus Screen" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       </td>
-      
-      <!-- SHOT: ADD -->
-      <td align="center" style="vertical-align: top;">
-        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_add.jpg" width="100%" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.15); border: 2px solid #f0f0f0;" alt="Add Task Screen">
+      <td width="33%" align="center" valign="top" style="border: none;">
+        <img src="https://raw.githubusercontent.com/Mahdi-mortazavi/app/main/assets/shot_add.jpg" width="100%" alt="Add Screen" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
       </td>
     </tr>
   </table>
@@ -127,61 +80,78 @@
 <br>
 <hr>
 
-<!-- ----------------------------------------------------- -->
-<!-- ENGLISH SUMMARY                                       -->
-<!-- ----------------------------------------------------- -->
-<div align="left">
+<!-- ======================================================= -->
+<!-- STORYTELLING SECTION (RTL)                              -->
+<!-- ======================================================= -->
+<div dir="rtl" align="right">
 
-## 🇺🇸 About the Project
+## 📖 داستان خلق Nava: جنگ با پیچیدگی!
 
-**Nava** is a productivity app born from the idea that *less is more*. 
-Built with Flutter, it features a custom design system that prioritizes user focus over feature bloat.
+همه ما اپلیکیشن‌های مدیریت زمان (To-Do) زیادی دیده‌ایم. اکثر آن‌ها شبیه فایل‌های اکسل هستند؛ پر از خط‌کشی، دکمه‌های ریز و منوهای گیج‌کننده. 
 
-**The Team Dynamic:**
-*   **Mahdi (Dev):** Obsessed with pixel-perfect UI and smooth animations.
-*   **Ali (QA):** The chaos agent who tries to break the app in every way possible to ensure stability.
+من، **مهدی مرتضوی**، یک شب تصمیم گرفتم این رویه را تغییر دهم. با الهام از جمله‌ی معروف: *"سادگی، نهایتِ پیچیدگی است"*، شروع به طراحی Nava کردم. هدف مشخص بود:
+> اپلیکیشنی که وقتی بازش می‌کنی، نفس عمیق بکشی، نه اینکه استرس بگیری!
 
-### 🛠 Installation
-1.  Clone the repo: `git clone https://github.com/Mahdi-mortazavi/app.git`
-2.  Install dependencies: `flutter pub get`
-3.  Run: `flutter run`
+ما دکمه‌های اضافی را حذف کردیم، گوشه‌های تیز را سابیدیم و به جای کلیک‌های خشک، از انیمیشن‌های روان استفاده کردیم.
+
+### 🧪 نقش حیاتی "علی" (The Quality Gate)
+هیچ کدی بدون باگ نیست و هیچ محصولی بدون انتقاد کامل نمی‌شود. اینجاست که **علیرضا میرزابیگی** وارد صحنه شد.
+علی ([@alirezamrzb](https://t.me/alirezamrzb)) فقط یک تستر نیست؛ او مسئولیت سنگین "نابود کردن اپلیکیشن" را بر عهده دارد! 😄
+
+*   اگر لیست تسک‌ها با اسکرول سریع لگ نمی‌زند...
+*   اگر تایمر موقع قفل شدن صفحه متوقف نمی‌شود...
+*   اگر اپلیکیشن روی گوشی‌های قدیمی کرش نمی‌کند...
+
+همه این‌ها مدیون تست‌های بی‌رحمانه‌ی علی است. او با دیدی انتقادی و دقیق، مطمئن می‌شود که زیبایی ظاهری، فدای عملکرد فنی نشده است.
 
 </div>
 
 ---
 
-<!-- ----------------------------------------------------- -->
-<!-- TEAM & FOOTER                                         -->
-<!-- ----------------------------------------------------- -->
+<!-- ======================================================= -->
+<!-- ENGLISH SUMMARY                                         -->
+<!-- ======================================================= -->
+<div align="left">
+
+## 🇺🇸 About the Project
+
+**Nava** is a rebellion against cluttered productivity tools. Developed with **Flutter**, it emphasizes "Invisible Design"—where the interface steps back so you can focus on your tasks.
+
+### 🌟 Key Features
+*   **Gestural Interface:** Swipe to complete, hold to edit. No tiny buttons.
+*   **Smart Animations:** The UI breathes and bounces, making productivity feel organic.
+*   **Performance:** Optimized for 60fps+ rendering on Android & iOS.
+
+</div>
+
 <br>
 
+<!-- ======================================================= -->
+<!-- TEAM & CREDITS                                          -->
+<!-- ======================================================= -->
 <div align="center">
-  <h2>👨‍💻 تیم توسعه (The Creators)</h2>
+  <h2>👨‍💻 تیم توسعه (The Dream Team)</h2>
   
-  <table>
-    <tr>
-      <td align="center" width="180">
+  <table style="border:none;">
+    <tr style="border:none;">
+      <td align="center" width="200" style="border:none;">
         <a href="https://t.me/Mahdi_mortazavi1">
-          <img src="https://github.com/Mahdi-mortazavi.png" width="90" style="border-radius: 50%; border: 3px solid #007AFF; padding: 2px;"><br>
-          <b>Mahdi Mortazavi</b>
+          <img src="https://github.com/Mahdi-mortazavi.png" width="100" style="border-radius: 50%; border: 4px solid #007AFF; padding: 3px;"><br>
+          <h3 style="margin-bottom:0;">Mahdi Mortazavi</h3>
         </a>
-        <br><small>Developer & Designer</small>
+        <p style="font-size: 14px;">Creator & Lead Developer</p>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="200" style="border:none;">
         <a href="https://t.me/alirezamrzb">
-          <img src="https://ui-avatars.com/api/?name=Ali+Reza&background=FF2D55&color=fff&rounded=true&size=128&bold=true" width="90" style="border-radius: 50%; border: 3px solid #FF2D55; padding: 2px;"><br>
-          <b>Ali Reza Mirzabeigi</b>
+          <img src="https://ui-avatars.com/api/?name=Ali+Reza&background=FF9500&color=fff&rounded=true&size=128&bold=true" width="100" style="border-radius: 50%; border: 4px solid #FF9500; padding: 3px;"><br>
+          <h3 style="margin-bottom:0;">Ali Reza Mirzabeigi</h3>
         </a>
-        <br><small>Quality Assurance (QA)</small>
+        <p style="font-size: 14px;">Product QA & Logic</p>
       </td>
     </tr>
   </table>
 
-  <br><br>
+  <br>
+  <p>Made with ❤️ in <b>Flutter</b></p>
   
-  <p>
-    Made with ❤️ and lots of ☕ in <b>Flutter</b>.
-    <br>
-    <i>اگر از این پروژه خوشتان آمد، فراموش نکنید که به آن ستاره ⭐️ بدهید!</i>
-  </p>
 </div>
